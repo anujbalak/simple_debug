@@ -7,7 +7,7 @@ html {
  scroll-behavior: smooth;
  background-color: rgb(33, 40, 50);
  color: rgb(238, 238, 238);
- align-items: center;
+ align-items: justify;
  font-family: monospace, Arial, Helvetica, sans-serif;
  text-align: center;
 }
