@@ -1,15 +1,17 @@
 /* styles */
 * {
- margin: 0;
  padding: 0;
 }
+
 html {
+display: flex;
  scroll-behavior: smooth;
  background-color: rgb(33, 40, 50);
  color: rgb(238, 238, 238);
- align-items: justify;
  font-family: monospace, Arial, Helvetica, sans-serif;
- 
+ max-width: 1080px;
+ text-align: justify;
+ margin: 0 auto;
 }
 .logo,
 .main-logo {
