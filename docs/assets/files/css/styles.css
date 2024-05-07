@@ -1,0 +1,77 @@
+/* styles */
+html {
+ background-color: rgb(33, 40, 50);
+ color: rgb(238, 238, 238);
+ align-items: center;
+ font-family: monospace, Arial, Helvetica, sans-serif;
+ text-align: center;
+}
+.logo,
+.main-logo {
+ background-color: rgb(255, 211, 105);
+ padding: 15px;
+ border-radius: 15px;
+ 
+}
+
+button,
+.tut {
+ background-color: rgb(193, 238, 243);
+ color: rgb(33, 40, 50);
+ flex-wrap: wrap;
+ padding: 20px;
+ font-size: 36px;
+ border-radius: 20px;
+ margin-top: 70px;
+ margin-left: 40px;
+ margin-left: 40px;
+ position: relative;
+ text-align: justify;
+ border-top-right-radius: 15px;
+
+}
+
+code {
+    background-color: rgb(57, 61, 70);
+    padding-top: 1px;
+    padding-bottom: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 3px;
+}
+
+.main-logo {
+ width: auto;
+ height: 100px;
+}
+
+section {
+ background-color:rgb(57, 62, 70) ;
+ padding: 40px;
+ border-radius: 15px;
+ font-size: 25px;
+}
+
+.main-link {
+ color: aliceblue;
+ font-style: italic;
+}
+.steps {
+ font-size: 20px;
+ margin-top: 30px;
+ margin-bottom: 30px;
+ list-style-position: inside;
+}
+
+.main-step {
+ margin: 10px;
+
+}
+
+.comment {
+ color: aquamarine;
+ font-size: 15px
+}
+.screenshot {
+    border-image-slice: fill;
+}
